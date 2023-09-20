@@ -2,8 +2,6 @@
 
 class square():
 """define a square class"""    
-    width = 0
-    height = 0
     
     def __init__(self, *args, **kwargs):
         """initialise for square class"""
